@@ -1,1 +1,1 @@
-# cliamte_change
+# climate_change
